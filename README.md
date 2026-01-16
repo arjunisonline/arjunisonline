@@ -1,4 +1,4 @@
-<h3><b>Hi, I'm Arjun 👋</b></h3>
+<h3><b>Hi, I'm Arjun </b></h3>
 
 <br>
 
